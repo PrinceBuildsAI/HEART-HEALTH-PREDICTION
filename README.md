@@ -128,7 +128,12 @@ The model processes these features and generates an easy-to-understand risk pred
 5. Expand the dataset for better generalization.
 
 ---
+## 👨‍💻 Author
 
-## 👨‍💻 Project Focus
+**PrinceBuildsAI**
 
-**Machine Learning • Healthcare Analytics • Classification • Model Deployment • Streamlit**
+Built as a practical Machine Learning project to explore how AI can analyze key health and lifestyle factors to predict heart disease risk and support data-driven health insights.
+
+---
+
+⭐ **If you found this project interesting, consider giving the repository a star!**
