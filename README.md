@@ -42,7 +42,7 @@ A Machine Learning-based application that predicts **heart disease risk** using 
 
 | Metric          | Details             |
 | --------------- | ------------------- |
-| 📚 Dataset Size | **10,000+ Records** |
+| 📚 Dataset Size | **9,00+ Records** |
 | 🤖 ML Approach  | Classification      |
 | 🎯 Prediction   | Heart Disease Risk  |
 | 🌐 Interface    | Streamlit           |
