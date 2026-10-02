@@ -88,7 +88,7 @@ The model processes these features and generates an easy-to-understand risk pred
 ## ⚙️ Project Workflow
 
 ```text
-10,000+ Health Records
+9,00+ Health Records
           ↓
     Data Preprocessing
           ↓
@@ -110,7 +110,7 @@ The model processes these features and generates an easy-to-understand risk pred
 ## 🎯 Project Impact
 
 * ❤️ Helps demonstrate automated heart disease risk assessment.
-* 📊 Converts **10,000+ records** into a practical ML solution.
+* 📊 Converts **9,00+ records** into a practical ML solution.
 * 🤖 Demonstrates an end-to-end Machine Learning workflow.
 * 🌐 Makes the trained model accessible through a simple web interface.
 * ⚡ Provides quick, data-driven predictions.
